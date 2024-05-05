@@ -2,6 +2,7 @@
 
 - 🛜 I work at Cisco @Meraki as a tech lead
 - 💻 I’m building [Joy of Rails](https://joyofrails.com) - Education for Ruby on Rails developers
+- 🔭 I blog on my personal site [rossta.net](https://rossta.net)
 - 🌱 I’m trying be the best father and husband for my family
 - 🏊🏻‍♀️🚴🏼‍♂️🏃🏻‍♂️ In my free time, I train for triathlons (swim, bike, run)
 - 🏌️ I’m currently learning how to golf
@@ -13,7 +14,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
