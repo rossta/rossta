@@ -1,4 +1,12 @@
-### Hi there 👋
+👋 I'm a product developer. I love using Rails, Ruby, and JavaScript.
+
+- 🛜 I work at Cisco @Meraki as a tech lead
+- 💻 I’m building [Joy of Rails](https://joyofrails.com) - Education for Ruby on Rails developers
+- 🌱 I’m trying be the best father and husband for my family
+- 🏊🏻‍♀️🚴🏼‍♂️🏃🏻‍♂️ In my free time, I train for triathlons (swim, bike, run)
+- 🏌️ I’m currently learning how to golf
+
+🐦 You can follow me on Twitter [@rossta](https://twitter.com/rossta)
 
 <!--
 **rossta/rossta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
